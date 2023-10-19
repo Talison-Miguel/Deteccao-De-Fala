@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="arraysort.jpg" />
+  <img alt="Imagem da Aplicação" src="speech.jpg" />
 </p>
 
 ---
